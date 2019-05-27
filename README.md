@@ -1,0 +1,2 @@
+# LEG
+simple nuxt website
